@@ -6,8 +6,8 @@
 
 ---
 ## Repo's content:
-1. First year [2023-2024]
-2. Second year [2024-2025]
+1. [First year](https://github.com/sicelet1/GARCHIVA/tree/main/FirstYear) [2023-2024]
+2. [Second year](https://github.com/sicelet1/GARCHIVA/tree/main/SecondYear) [2024-2025]
 
 Coming soon... *maybe*
 
