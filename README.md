@@ -1,6 +1,6 @@
 # GARCHIVA 
 
-- An archive repo for *all* code stuff made by me at the [programming](https://www.gyarab.cz/predmety/PGnew) subject on Gyarab high school.
+- An archive repo for *all* code stuff made by me at the [programming](https://www.gyarab.cz/predmety/PGnew) & some other IT subjects on Gyarab high school.
 ![ArchIco](https://cdn-icons-png.flaticon.com/512/8635/8635536.png)
 
 ---
@@ -11,7 +11,7 @@
 Coming soon... *maybe*
 
 ---
-Licensed under nothing, just my trust to users & viewers.
+Licensed under nothing but my trust to users & viewers.
 
 ---
 ### Come visit my other, more useful stuff
