@@ -4,8 +4,6 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Random;
-import java.util.Timer;
 
 public class Main {
 
@@ -51,9 +49,9 @@ public class Main {
 		 */
 
 		File file = new File("Z:\\JAVA_2E\\PROGRAMOVANI_2E\\.gitignore");
-		File file_copy_pervered = new File("Z:\\JAVA_2E\\PROGRAMOVANI_2E\\.gitignore_copy_pervered");
+		File file_copy_perverted = new File("Z:\\JAVA_2E\\PROGRAMOVANI_2E\\.gitignore_copy_perverted");
 		FileReader reader = new FileReader(file);
-		FileWriter writer = new FileWriter(file_copy_pervered);
+		FileWriter writer = new FileWriter(file_copy_perverted);
 /*
 		for (int x = reader.read(); x != -1; x = reader.read()) {
 
